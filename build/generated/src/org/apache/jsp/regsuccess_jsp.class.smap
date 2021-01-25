@@ -1,0 +1,16 @@
+SMAP
+regsuccess_jsp.java
+JSP
+*S JSP
+*F
++ 0 regsuccess.jsp
+regsuccess.jsp
+*L
+5,14:49
+19,2:13
+20,2:63
+27,33:71
+59,7:104
+66:111,3
+67,9:114
+*E
